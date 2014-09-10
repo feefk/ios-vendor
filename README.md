@@ -3,14 +3,14 @@ ios-vendors
  
 ## 目录
  
-* [ImageEditor](#imageEditor)
-* [ReactiveCocoa](#ReactiveCocoa)
-* [SlideMenu](#SlideMenu)
+* [ImageEditor](#imageeditor)
+* [ReactiveCocoa](#reactivecocoa)
+* [SlideMenu](#slidemenu)
 * [DB](#DB)
-* [ProgressHUD](#ProgressHUD)
-* [TestPlaceholder](#TestPlaceholder)
-* [NoArchived](#NoArchived)
-* [OpenSource](#OpenSource)
+* [ProgressHUD](#progresshud)
+* [TestPlaceholder](#testplaceholder)
+* [NoArchived](#noarchived)
+* [OpenSource](#opensource)
  
 ### ImageEditor
 
