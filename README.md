@@ -55,3 +55,4 @@ ios-vendors
 ### OpenSource
 
 * [f8DeveloperConferenceApp](https://github.com/ParsePlatform/f8DeveloperConferenceApp)
+* [Telegram](https://github.com/aaronraimist/Telegram-iOS)
