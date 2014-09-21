@@ -10,15 +10,17 @@ ios-vendors
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
 * [NoArchived](#noarchived)
-* [OpenSource](#opensource)
 
 ### 开发相关
-
 
 * [Test](#test)
 * [CrashReport](#crashreport)
 * [UserAction](#useraction)
 
+
+### OpenSource
+
+* [OpenSource](#opensource)
 
  
 ### ImageEditor
@@ -63,13 +65,6 @@ ios-vendors
 * [nimbus](https://github.com/jverkoey/nimbus)
 
 
-### OpenSource
-
-* [f8DeveloperConferenceApp](https://github.com/ParsePlatform/f8DeveloperConferenceApp)
-* [Telegram](https://github.com/aaronraimist/Telegram-iOS)
-
-
-
 ### Test
 
 * [TestFlight](http://try.crashlytics.com/)
@@ -85,4 +80,9 @@ ios-vendors
 * [flurry](http://www.flurry.com/)
 * [Countly](http://count.ly/) 
 
+
+### OpenSource
+
+* [f8DeveloperConferenceApp](https://github.com/ParsePlatform/f8DeveloperConferenceApp)
+* [Telegram](https://github.com/aaronraimist/Telegram-iOS)
 
