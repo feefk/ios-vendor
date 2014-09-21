@@ -53,8 +53,6 @@ ios-vendors
 * [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
 * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
-
-
 ### TestPlaceholder
 
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder) : text框中得placeholder，当输入文字时，placeholder中文字至于末尾
@@ -79,7 +77,6 @@ ios-vendors
 
 * [flurry](http://www.flurry.com/)
 * [Countly](http://count.ly/) 
-
 
 ### OpenSource
 
