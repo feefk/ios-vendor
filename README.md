@@ -11,6 +11,15 @@ ios-vendors
 * [TestPlaceholder](#testplaceholder)
 * [NoArchived](#noarchived)
 * [OpenSource](#opensource)
+
+### 开发相关
+
+
+* [Test](#test)
+* [CrashReport](#crashreport)
+* [UserAction](#useraction)
+
+
  
 ### ImageEditor
 
@@ -42,6 +51,8 @@ ios-vendors
 * [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
 * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
+
+
 ### TestPlaceholder
 
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder) : text框中得placeholder，当输入文字时，placeholder中文字至于末尾
@@ -56,3 +67,22 @@ ios-vendors
 
 * [f8DeveloperConferenceApp](https://github.com/ParsePlatform/f8DeveloperConferenceApp)
 * [Telegram](https://github.com/aaronraimist/Telegram-iOS)
+
+
+
+### Test
+
+* [TestFlight](http://try.crashlytics.com/)
+
+
+### CrashReport
+
+* [Crittercism](https://www.crittercism.com/)
+* [crashlytics](https://www.crashlytics.com/)
+
+### UserAction
+
+* [flurry](http://www.flurry.com/)
+* [Countly](http://count.ly/) 
+
+
