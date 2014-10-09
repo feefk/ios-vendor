@@ -51,7 +51,7 @@ ios-vendors
 
 ### autolayout
 
-*[Masonry](https://github.com/Masonry/Masonry)
+* [Masonry](https://github.com/Masonry/Masonry)
 
 
 ### ProgressHUD
