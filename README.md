@@ -7,6 +7,7 @@ ios-vendors
 * [ReactiveCocoa](#reactivecocoa)
 * [SlideMenu](#slidemenu)
 * [DB](#DB)
+* [AutoLayout](#autolayout)
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
 * [NoArchived](#noarchived)
@@ -47,6 +48,11 @@ ios-vendors
 
 * [LevelDB](https://github.com/hoisie/LevelDB-ObjC)
 * [Objective-LevelDB](https://github.com/matehat/Objective-LevelDB)
+
+### autolayout
+
+*[Masonry](https://github.com/Masonry/Masonry)
+
 
 ### ProgressHUD
 
