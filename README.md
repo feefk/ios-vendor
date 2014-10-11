@@ -6,6 +6,7 @@ ios-vendors
 * [ImageEditor](#imageeditor)
 * [ReactiveCocoa](#reactivecocoa)
 * [SlideMenu](#slidemenu)
+* [TabMenu](#tabmenu)
 * [DB](#DB)
 * [AutoLayout](#autolayout)
 * [ProgressHUD](#progresshud)
@@ -43,6 +44,10 @@ ios-vendors
 * [SASlideMenu](https://github.com/stefanoa/SASlideMenu)
 * [LeftRightSlider](https://github.com/heroims/LeftRightSlider) : 像知乎日报一样的sliber menu
 * [PPRevealSideViewController](https://github.com/ipup/PPRevealSideViewController)
+
+### TabMenu
+
+* [TumblrMenu](https://github.com/cyndibaby905/TumblrMenu)
 
 ### DB
 
