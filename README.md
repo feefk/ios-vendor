@@ -8,6 +8,7 @@ ios-vendors
 * [SlideMenu](#slidemenu)
 * [TabMenu](#tabmenu)
 * [DB](#DB)
+* [Camera](#camera)
 * [AutoLayout](#autolayout)
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
@@ -53,6 +54,10 @@ ios-vendors
 
 * [LevelDB](https://github.com/hoisie/LevelDB-ObjC)
 * [Objective-LevelDB](https://github.com/matehat/Objective-LevelDB)
+
+### Camera
+
+* [DBCamera](https://github.com/danielebogo/DBCamera)
 
 ### autolayout
 
