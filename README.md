@@ -12,6 +12,7 @@ ios-vendors
 * [AutoLayout](#autolayout)
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
+* [NavigationBar](#navigationbar)
 * [NoArchived](#noarchived)
 
 ## 开发相关
@@ -72,6 +73,11 @@ ios-vendors
 ### TestPlaceholder
 
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder) : text框中得placeholder，当输入文字时，placeholder中文字至于末尾
+
+
+### NavigationBar
+
+* [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar)
 
 ### NoArchived
 
