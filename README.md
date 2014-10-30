@@ -78,6 +78,7 @@ ios-vendors
 ### NavigationBar
 
 * [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar)
+* [TGFoursquareLocationDetail](https://github.com/Tibolte/TGFoursquareLocationDetail-Demo)
 
 ### NoArchived
 
