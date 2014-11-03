@@ -105,4 +105,5 @@ ios-vendors
 
 * [f8DeveloperConferenceApp](https://github.com/ParsePlatform/f8DeveloperConferenceApp)
 * [Telegram](https://github.com/aaronraimist/Telegram-iOS)
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit): 类似微信的IM app
 
