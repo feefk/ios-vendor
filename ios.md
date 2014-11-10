@@ -85,6 +85,8 @@ ios-vendors
 * [JLRoutes](https://github.com/joeldev/JLRoutes)
 * [nimbus](https://github.com/jverkoey/nimbus)
 * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) : iOS project bootstrap aimed at high quality coding
+* [KFCocoaPodsPlugin](https://github.com/ricobeck/KFCocoaPodsPlugin)
+
 
 ### Test
 
