@@ -11,6 +11,7 @@ ios-vendors
 * [DB](#DB)
 * [Camera](#camera)
 * [AutoLayout](#autolayout)
+* [Animate](#animate)
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
 * [NavigationBar](#navigationbar)
@@ -68,6 +69,9 @@ ios-vendors
 ### autolayout
 
 * [Masonry](https://github.com/Masonry/Masonry)
+
+### Animate
+* [POP-MCAnimate](https://github.com/matthewcheok/POP-MCAnimate)
 
 
 ### ProgressHUD
