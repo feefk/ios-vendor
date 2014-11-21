@@ -59,7 +59,7 @@ ios-vendors
 * [STXDynamicTableView](https://github.com/2359media/STXDynamicTableView) : 动态cell
 
 ### UILabel
-*[FXLabel](https://github.com/nicklockwood/FXLabel)
+* [FXLabel](https://github.com/nicklockwood/FXLabel)
 
 ### DB
 
