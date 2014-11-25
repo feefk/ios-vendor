@@ -36,6 +36,7 @@ ios-vendors
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) : 处理图片，像instagram一样的
 * [iOS-NBUImagePicker](https://github.com/CyberAgent/iOS-NBUImagePicker) : 可以拍照，并根据图片剪切，查看相册等等
 * [TDImageColors](https://github.com/timominous/TDImageColors) : 根据图片分析出图片主要的颜色组成
+* [Vertigo](https://github.com/gonzalezreal/Vertigo) : 可以全屏查看image
 
 
 ### ReactiveCocoa
