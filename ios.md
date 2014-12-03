@@ -13,6 +13,7 @@ ios-vendors
 * [KeyBoard](#keyboard)
 * [Camera](#camera)
 * [AutoLayout](#autolayout)
+* [Bluetooth](#bluetooth)
 * [Animate](#animate)
 * [ProgressHUD](#progresshud)
 * [TestPlaceholder](#testplaceholder)
@@ -82,6 +83,8 @@ ios-vendors
 ### Animate
 * [POP-MCAnimate](https://github.com/matthewcheok/POP-MCAnimate)
 
+### Bluetooth
+* [YmsCoreBluetooth](https://github.com/kickingvegas/YmsCoreBluetooth)
 
 ### ProgressHUD
 
