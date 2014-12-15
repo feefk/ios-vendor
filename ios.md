@@ -52,6 +52,7 @@ ios-vendors
 * [SASlideMenu](https://github.com/stefanoa/SASlideMenu)
 * [LeftRightSlider](https://github.com/heroims/LeftRightSlider) : 像知乎日报一样的sliber menu
 * [PPRevealSideViewController](https://github.com/ipup/PPRevealSideViewController)
+* [RESideMenu](https://github.com/romaonthego/RESideMenu)
 
 ### TabMenu
 
