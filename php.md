@@ -8,3 +8,7 @@ HTTP libraries
 Push
 ------
 * [jpush](https://github.com/jpush/jpush-api-php-client)
+
+Awesome PHP
+--------
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
