@@ -1,10 +1,8 @@
-
-
-HTTP libraries
-------
+HTTP Client Library
+--------
 * [unirest-php](https://github.com/Mashape/unirest-php)
 
-中文转拼音
+chinese to PinYin
 -------
 * [pinyin](https://github.com/overtrue/pinyin)
 
