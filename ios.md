@@ -138,4 +138,5 @@ ios-vendors
 
 * [GAJavaScript](https://github.com/newyankeecodeshop/GAJavaScript)
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+* [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole)
 
